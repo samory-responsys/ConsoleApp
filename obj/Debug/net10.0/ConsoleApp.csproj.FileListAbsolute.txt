@@ -1,0 +1,14 @@
+/home/samory/source/repos/ConsoleApp/bin/Debug/net10.0/ConsoleApp
+/home/samory/source/repos/ConsoleApp/bin/Debug/net10.0/ConsoleApp.deps.json
+/home/samory/source/repos/ConsoleApp/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/home/samory/source/repos/ConsoleApp/bin/Debug/net10.0/ConsoleApp.dll
+/home/samory/source/repos/ConsoleApp/bin/Debug/net10.0/ConsoleApp.pdb
+/home/samory/source/repos/ConsoleApp/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/samory/source/repos/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/samory/source/repos/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/home/samory/source/repos/ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/samory/source/repos/ConsoleApp/obj/Debug/net10.0/ConsoleApp.dll
+/home/samory/source/repos/ConsoleApp/obj/Debug/net10.0/refint/ConsoleApp.dll
+/home/samory/source/repos/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
+/home/samory/source/repos/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/home/samory/source/repos/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll
